@@ -16,6 +16,7 @@
     "hardhat-gas-reporter": "^1.0.9"
   },
   "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
     "hardhat-storage-layout": "^0.1.7"
   }
 }
